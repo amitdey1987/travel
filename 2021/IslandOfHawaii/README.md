@@ -22,3 +22,9 @@
 # Akaka Falls
 ![akaka](https://user-images.githubusercontent.com/35510446/122452746-70b94e80-cf5e-11eb-9135-4c8765399b15.gif)
 ![image](https://user-images.githubusercontent.com/35510446/122452526-3485ee00-cf5e-11eb-9929-c91013998e85.png)
+
+# Hilo
+![image](https://user-images.githubusercontent.com/35510446/122453595-65b2ee00-cf5f-11eb-960d-a86d13d8fd9a.png)
+
+# Rainbow Falls
+![image](https://user-images.githubusercontent.com/35510446/122453864-8b3ff780-cf5f-11eb-9f03-b41785b13fca.png)
