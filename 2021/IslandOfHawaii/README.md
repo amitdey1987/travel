@@ -15,6 +15,6 @@
 
 # Waipio Valley
 ![waipio1](https://user-images.githubusercontent.com/35510446/122451071-980f1c00-cf5c-11eb-8f3e-c793aef511bc.gif)
-![waipio2](https://user-images.githubusercontent.com/35510446/122451578-2f746f00-cf5d-11eb-840f-d9aaafef0685.gif)
+![waipio3](https://user-images.githubusercontent.com/35510446/122452011-a0b42200-cf5d-11eb-80c7-e373a57cfd8e.gif)
 ![image](https://user-images.githubusercontent.com/35510446/122450322-bc1e2d80-cf5b-11eb-825f-0fa06a4d8f5a.png)
 
