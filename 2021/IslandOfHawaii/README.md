@@ -8,6 +8,7 @@
 # Pololu Valley
 ![pololu1](https://user-images.githubusercontent.com/35510446/122447252-66945180-cf58-11eb-994f-bbb2c7498280.gif)
 ![pololu2](https://user-images.githubusercontent.com/35510446/122447836-00f49500-cf59-11eb-878d-a6c8df307a0c.gif)
+![image](https://user-images.githubusercontent.com/35510446/122453320-14a2fa00-cf5f-11eb-949a-7a174b9053ee.png)
 ![hike](https://user-images.githubusercontent.com/35510446/122445633-95a9c380-cf56-11eb-86ae-cf8e05eb3733.jpg)
 
 # Whale Watching
