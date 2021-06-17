@@ -11,6 +11,9 @@
 ![image](https://user-images.githubusercontent.com/35510446/122453320-14a2fa00-cf5f-11eb-949a-7a174b9053ee.png)
 ![hike](https://user-images.githubusercontent.com/35510446/122445633-95a9c380-cf56-11eb-86ae-cf8e05eb3733.jpg)
 
+# Kaunaoa Beach
+![image](https://user-images.githubusercontent.com/35510446/122456504-83358700-cf62-11eb-813c-b249dc12f593.png)
+
 # Whale Watching
 ![whale](https://user-images.githubusercontent.com/35510446/122449345-9d6b6700-cf5a-11eb-9eac-b708325d4523.gif)
 
@@ -35,4 +38,15 @@
 ![image](https://user-images.githubusercontent.com/35510446/122454489-4ec0cb80-cf60-11eb-855e-8ae1c4d4a1d5.png)
 ![image](https://user-images.githubusercontent.com/35510446/122454465-47012700-cf60-11eb-991a-88192b581632.png)
 
+# Punaluu Beach
+![punaluu](https://user-images.githubusercontent.com/35510446/122455705-8d0aba80-cf61-11eb-9390-b6dd99339d12.gif)
+
+# Hawaii Belt Road
+![image](https://user-images.githubusercontent.com/35510446/122455947-d1965600-cf61-11eb-8c36-f4d45524d6ae.png)
+![image](https://user-images.githubusercontent.com/35510446/122455971-d8bd6400-cf61-11eb-831b-9e6997feb1b0.png)
+
+# Kailua-Kona
+![image](https://user-images.githubusercontent.com/35510446/122456335-49648080-cf62-11eb-8553-e9bd05104d1c.png)
+
+![image](https://user-images.githubusercontent.com/35510446/122456257-3356c000-cf62-11eb-926e-67442ce86d8c.png)
 
