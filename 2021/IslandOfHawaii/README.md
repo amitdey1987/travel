@@ -12,3 +12,9 @@
 
 # Whale Watching
 ![whale](https://user-images.githubusercontent.com/35510446/122449345-9d6b6700-cf5a-11eb-9eac-b708325d4523.gif)
+
+# Waipio Valley
+![waipio1](https://user-images.githubusercontent.com/35510446/122451071-980f1c00-cf5c-11eb-8f3e-c793aef511bc.gif)
+![waipio2](https://user-images.githubusercontent.com/35510446/122451578-2f746f00-cf5d-11eb-840f-d9aaafef0685.gif)
+![image](https://user-images.githubusercontent.com/35510446/122450322-bc1e2d80-cf5b-11eb-825f-0fa06a4d8f5a.png)
+
