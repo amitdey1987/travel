@@ -19,6 +19,7 @@
 # Waimea Bay Beack Park
 ![waimea](https://user-images.githubusercontent.com/35510446/122617309-de3dab80-d040-11eb-911c-3e14807a45fa.gif)
 ![waimea2](https://user-images.githubusercontent.com/35510446/122617312-e0a00580-d040-11eb-80b0-4d589194ccb5.gif)
+![waimea3](https://user-images.githubusercontent.com/35510446/122619009-50fc5600-d044-11eb-9c24-ba8578ff2b3a.gif)
 
 # Hanauma Bay
 ![Hanauma1](https://user-images.githubusercontent.com/35510446/122618763-c4ea2e80-d043-11eb-9aad-9efc0ab498f3.gif)
