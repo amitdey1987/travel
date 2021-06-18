@@ -19,3 +19,17 @@
 # Waimea Bay Beack Park
 ![waimea](https://user-images.githubusercontent.com/35510446/122617309-de3dab80-d040-11eb-911c-3e14807a45fa.gif)
 ![waimea2](https://user-images.githubusercontent.com/35510446/122617312-e0a00580-d040-11eb-80b0-4d589194ccb5.gif)
+
+# Hanauma Bay
+![Hanauma1](https://user-images.githubusercontent.com/35510446/122618763-c4ea2e80-d043-11eb-9aad-9efc0ab498f3.gif)
+![Hanauma2](https://user-images.githubusercontent.com/35510446/122618765-c6b3f200-d043-11eb-940d-ec9a6a56e1e3.gif)
+![MVIMG_20200203_131337](https://user-images.githubusercontent.com/35510446/122618780-d03d5a00-d043-11eb-839f-78493cc06c8a.jpg)
+
+# Waimnalo Bay Beach Park
+![Waimnalo](https://user-images.githubusercontent.com/35510446/122618808-dd5a4900-d043-11eb-96a3-156d412e330e.gif)
+![Waimnalo2](https://user-images.githubusercontent.com/35510446/122618810-df240c80-d043-11eb-8c7e-fdda39a0261d.gif)
+
+# Makapu‘u Point Lighthouse Trail
+![MVIMG_20200204_165440](https://user-images.githubusercontent.com/35510446/122618727-b734a900-d043-11eb-89f5-d631bcb8ba95.jpg)
+![MVIMG_20200204_164130](https://user-images.githubusercontent.com/35510446/122618730-b865d600-d043-11eb-97aa-5b8176e6441e.jpg)
+![MVIMG_20200204_164002](https://user-images.githubusercontent.com/35510446/122618737-ba2f9980-d043-11eb-9686-7c76f88b31d8.jpg)
