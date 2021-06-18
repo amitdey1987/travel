@@ -15,3 +15,7 @@
 ![Kualoa1](https://user-images.githubusercontent.com/35510446/122610134-fd820c00-d033-11eb-93ae-81d9d1d29531.gif)
 ![Kualoa2](https://user-images.githubusercontent.com/35510446/122609957-b09e3580-d033-11eb-95bb-ece54133f1f5.gif)
 ![Kualoa3](https://user-images.githubusercontent.com/35510446/122610474-9022ab00-d034-11eb-9a43-a42ba1734550.gif)
+
+# Waimea Bay Beack Park
+![waimea](https://user-images.githubusercontent.com/35510446/122617309-de3dab80-d040-11eb-911c-3e14807a45fa.gif)
+![waimea2](https://user-images.githubusercontent.com/35510446/122617312-e0a00580-d040-11eb-80b0-4d589194ccb5.gif)
