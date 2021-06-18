@@ -10,6 +10,7 @@
 # Honolulu
 ![image](https://user-images.githubusercontent.com/35510446/122609011-1ab5db00-d032-11eb-8767-e6c2cffd77a6.png)
 ![image](https://user-images.githubusercontent.com/35510446/122610633-d0822900-d034-11eb-9bd7-cc2916fbaf5c.png)
+![IMG_20200204_182610](https://user-images.githubusercontent.com/35510446/122619160-a89ac180-d044-11eb-9b4e-5c0e1f9fb9cf.jpg)
 
 # Kualoa Regional Park
 ![Kualoa1](https://user-images.githubusercontent.com/35510446/122610134-fd820c00-d033-11eb-93ae-81d9d1d29531.gif)
