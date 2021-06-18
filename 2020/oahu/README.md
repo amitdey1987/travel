@@ -7,3 +7,6 @@
 
 # Honolulu
 ![image](https://user-images.githubusercontent.com/35510446/122609011-1ab5db00-d032-11eb-8767-e6c2cffd77a6.png)
+
+# Kualoa Regional Park
+![Kualoa2](https://user-images.githubusercontent.com/35510446/122609957-b09e3580-d033-11eb-95bb-ece54133f1f5.gif)
