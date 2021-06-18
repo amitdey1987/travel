@@ -4,6 +4,8 @@
 ![puuohulu2](https://user-images.githubusercontent.com/35510446/122608265-bf371d80-d030-11eb-8bfc-7ed55e090bb1.gif)
 ![puuohulu](https://user-images.githubusercontent.com/35510446/122606543-f0621e80-d02d-11eb-9cdc-7030acf9e64d.gif)
 ![puuohulu3](https://user-images.githubusercontent.com/35510446/122608268-bfcfb400-d030-11eb-803e-12e3f0e8c80d.gif)
+![image](https://user-images.githubusercontent.com/35510446/122610971-61590480-d035-11eb-99c2-fac9f7cff8b4.png)
+![image](https://user-images.githubusercontent.com/35510446/122610991-69b13f80-d035-11eb-8b95-6a2765840afb.png)
 
 # Honolulu
 ![image](https://user-images.githubusercontent.com/35510446/122609011-1ab5db00-d032-11eb-8767-e6c2cffd77a6.png)
