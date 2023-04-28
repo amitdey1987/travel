@@ -7,7 +7,7 @@
 |04/29/2023|Flight|AC003 12:50 PM|3VZVVA|
 |04/30/2023|Visa - Amit|<img width="125" alt="image" src="https://user-images.githubusercontent.com/35510446/234737990-d6d5cf7a-ca2f-4a00-84f7-a25c6be41f0e.png">|P2979482|
 |04/30/2023|Visa - Anushree|<img width="125" alt="image" src="https://user-images.githubusercontent.com/35510446/234738050-ee783166-e104-455c-8bd9-e8ff5c3637cf.png">|Z5401402|
-|4/30/2023|Hotel - Tokyo|||
-|5/4/2023|Hotel - Osaka|||
-|5/5/2023|Hotel - Kyoto|||
+|4/30/2023|Hotel - Tokyo|Shinjuku Prince Hotel - 1-30-1 Kabuki-cho, Tokyo, Tokyo-to, 160-8487|72544901794207|
+|5/4/2023|Hotel - Osaka|Sotetsu Fresa Inn Yodoyabashi - 3-2-23 Kitahama Chuo Ward, Osaka, Osaka, 541-0041|72544882632219|
+|5/5/2023|Hotel - Kyoto|Matsui Bekkan Hanakanzashi - Rokkaku Takakura Higashiiru, Nakagyo-ku, Kyoto, Kyoto, 604-8117|72543017643420|
 
