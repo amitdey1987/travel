@@ -17,6 +17,8 @@
 |10:00|Take train to Ueno|||
 |11:00|Tokyo National Museum|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356921-b4378ea0-998b-4546-90d8-08b213582ea2.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356983-432b6a50-4515-44ec-8bef-0a818826a1fb.png">
 |13:00|Walk to Ameyoko Shopping District. Shop, Lunch|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236357105-a40addce-0a29-4221-be02-807093695792.png">|<img width="464" alt="image" src="https://user-images.githubusercontent.com/35510446/236357143-94f4ce5e-c03d-4854-8679-2d7659d25344.png">|
+|15:00|Take train to Asakusa|
+|15:30|Senso-ji Temple|<img width="247" alt="image" src="https://user-images.githubusercontent.com/35510446/236357576-1c8fba55-3745-4d2f-8d6a-c2dfa73a72e2.png">|<img width="459" alt="image" src="https://user-images.githubusercontent.com/35510446/236357542-6f056de3-2b73-41a1-b2c4-538b34657f02.png">|
 
 # Documents
 
