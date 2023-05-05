@@ -9,7 +9,15 @@
 |17:30|Bus to Shinjuku Station||You may use JR Pass for part of ride if activated already. But we chose Bus as we had lot of big luggage and wanted to avoid switching trains, and using subway|
 |19:00|Check-in at Shinjuku Prince Hotel||1. Choose hotel close to Shinjuku Station (This one was). <br> 2. Rooms are cramped everywhere in Tokyo/Japan|
 |20:30|Dinner at [Ichiran Ramen Shinjuku](https://en.ichiran.com/shop/tokyo/shinjuku/)|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356245-07c38f60-ffa4-4909-a0e4-6ba4136b2010.png">|1. Lines can be long <br> 2. Only pork broth|
-|22:00|Hangout at Shinjuku|<img width="464" alt="image" src="https://user-images.githubusercontent.com/35510446/236356515-f8bf9cf3-1a61-46ea-b9e6-3565f18e00f3.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356592-8948a448-afef-4cb9-9bcd-7f08b465113c.png">|
+|22:00|Hangout at Shinjuku|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356515-f8bf9cf3-1a61-46ea-b9e6-3565f18e00f3.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356592-8948a448-afef-4cb9-9bcd-7f08b465113c.png">|
+
+# Day 2
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|10:00|Take train to Ueno|||
+|11:00|Tokyo National Museum|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356921-b4378ea0-998b-4546-90d8-08b213582ea2.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236356983-432b6a50-4515-44ec-8bef-0a818826a1fb.png">
+|
+
 # Documents
 
 |Date|Name|Link|File|
