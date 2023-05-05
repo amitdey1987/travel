@@ -1,6 +1,6 @@
 # Day 1
 
-|Time|Desscription|Photos|Tips|
+|Time|Description|Photos|Tips|
 |-|-|-|-|
 |15:00|Arrive at Narita International Airport|||
 |16:00|Buy/Exchange [Japan Rail Pass](https://japanrailpass.net/)||1. Lines can be long <br>2. Buy before arriving in Japan for better rates. It is delivered to your home. <br>3. Only valid for continuous 7/14/x days. Only validate for duration expecting long-distance travel|
