@@ -4,7 +4,7 @@
 |-|-|-|-|
 |15:00|Arrive at Narita International Airport|||
 |16:00|Buy/Exchange [Japan Rail Pass](https://japanrailpass.net/)||1. Lines can be long <br>2. Buy before arriving in Japan for better rates. It is delivered to your home. <br>3. Only valid for continuous 7/14/x days. Only validate for duration expecting long-distance travel|
-|17:00|Buy a Suica Card per person||Load atleast 2000 yen per person|
+|17:00|Buy a Suica Card per person||1. Load atleast 2000 yen per person <br>2. You can load again at every train station whenever you are out of balance|
 |17:00|Buy wifi-rental device. Can connect multiple phones/laptop to it.||Take option with good battery life|
 |17:30|Bus to Shinjuku Station||You may use JR Pass for part of ride if activated already. But we chose Bus as we had lot of big luggage and wanted to avoid switching trains, and using subway|
 |19:00|Check-in at Shinjuku Prince Hotel||1. Choose hotel close to Shinjuku Station (This one was). <br> 2. Rooms are cramped everywhere in Tokyo/Japan|
