@@ -18,7 +18,7 @@
 |13:00|Walk to Ameyoko Shopping District. Shop, Lunch|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236357105-a40addce-0a29-4221-be02-807093695792.png">|<img width="464" alt="image" src="https://user-images.githubusercontent.com/35510446/236357143-94f4ce5e-c03d-4854-8679-2d7659d25344.png">|
 |15:00|Take train to Asakua. Senso-ji Temple|<img width="247" alt="image" src="https://user-images.githubusercontent.com/35510446/236357576-1c8fba55-3745-4d2f-8d6a-c2dfa73a72e2.png">|<img width="459" alt="image" src="https://user-images.githubusercontent.com/35510446/236357542-6f056de3-2b73-41a1-b2c4-538b34657f02.png">|
 |17:00|Take train back to Shinjuku|||
-|20:30|Dinner at [Lakekomi Gyoza](https://www.kakekomi-gyoza.com/)|<img width="254" alt="image" src="https://user-images.githubusercontent.com/35510446/236357937-26c6a65b-53cf-4517-8bbc-aa5a10b5e00d.png">||
+|20:30|Dinner at [Lakekomi Gyoza](https://www.kakekomi-gyoza.com/)|<img width="254" alt="image" src="https://user-images.githubusercontent.com/35510446/236357937-26c6a65b-53cf-4517-8bbc-aa5a10b5e00d.png">|<img width="244" alt="image" src="https://user-images.githubusercontent.com/35510446/236357984-31fcfbc9-5ff9-4b5f-9d02-40c88a3ef932.png">|
 
 # Documents
 
