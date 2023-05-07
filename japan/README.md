@@ -40,7 +40,7 @@
 |18:00|Take large luggage to a pre-booked storage||Coin lockers only allow maximum of 3 days storage. We chose [ecbo cloak](https://cloak.ecbo.io/en) to find a location.|
 |19:00|Take train to Shibuya Corssing|<img width="556" alt="image" src="https://user-images.githubusercontent.com/35510446/236656094-a7e5d29d-bc3f-4ace-8bd8-9e9b888e18dd.png">||
 |20:30|Take train back to Shinjuku|||
-|21:00|Curry Dinner at Shinjuku Station|![Uploading image.png…]()||
+|21:00|Curry Dinner at Shinjuku Station|<img width="415" alt="image" src="https://user-images.githubusercontent.com/35510446/236656114-d88a2fde-86ff-4399-a4eb-c040f0841778.png">||
 # Documents
 
 |Date|Name|Link|File|
