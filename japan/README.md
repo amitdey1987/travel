@@ -29,6 +29,18 @@
 |14:00|Walk to Mt. Fuji Panoramic Ropeway|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236655520-d0a3f550-a452-4009-8fe8-d6d32b3ed9cd.png">|Long wait times|
 |16:00|Return to Kawaguchiko Station|||
 |16:30|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Kawaguchiko Station to Shinjuku Station.||Take paper tickets from Kawaguchiko Station for part of ride not covered with JR Pass|
+
+# Day 4
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|10:00|Take train to Meiji Jingu|<img width="471" alt="image" src="https://user-images.githubusercontent.com/35510446/236655688-66399344-9b5f-4291-ac78-1b1a9ebd54a7.png"><img width="446" alt="image" src="https://user-images.githubusercontent.com/35510446/236655724-5c3d3e6c-b2ab-406c-9796-bdc610b4ae01.png">|<img width="249" alt="image" src="https://user-images.githubusercontent.com/35510446/236655705-c85fc7d6-0e71-4542-96e6-9aa5d9db9396.png">|
+|13:00|Take train back to Shinjuku|
+|13:30|Tonkatsu Lunch at Tonsho|<img width="449" alt="image" src="https://user-images.githubusercontent.com/35510446/236655761-dc2aef0c-4c84-4d15-a7a5-d574e55b06c6.png">||
+|15:00|Relax at Hotel||
+|18:00|Take large luggage to a pre-booked storage||Coin lockers only allow maximum of 3 days storage. We chose [ecbo cloak](https://cloak.ecbo.io/en) to find a location.|
+|19:00|Take train to Shibuya Corssing|<img width="556" alt="image" src="https://user-images.githubusercontent.com/35510446/236656094-a7e5d29d-bc3f-4ace-8bd8-9e9b888e18dd.png">||
+|20:30|Take train back to Shinjuku|||
+|21:00|Curry Dinner at Shinjuku Station|![Uploading image.png…]()||
 # Documents
 
 |Date|Name|Link|File|
