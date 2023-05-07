@@ -28,7 +28,7 @@
 |13:00|Return to Kawaguchiko Station|||
 |14:00|Walk to Mt. Fuji Panoramic Ropeway|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236655520-d0a3f550-a452-4009-8fe8-d6d32b3ed9cd.png">|Long wait times|
 |16:00|Return to Kawaguchiko Station|||
-|16:30|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Kawaguchiko Station to Shinjuku Station.|||
+|16:30|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Kawaguchiko Station to Shinjuku Station.||Take paper tickets from Kawaguchiko Station for part of ride not covered with JR Pass|
 # Documents
 
 |Date|Name|Link|File|
