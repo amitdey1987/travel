@@ -23,7 +23,12 @@
 # Day 3
 |Time|Description|Photos|Tips|
 |-|-|-|-|
-|07:00|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Shinjuku Station||1. Part of the ride is covered by JR Pass. You can pay difference in cash to Ticket Checker on train. <br> 2. Although possible to travel without reservation, would strongly recommend it. You can make reservations at ticket vending machines near JR offices in bigger train stations like Shinjuku|
+|07:00|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Shinjuku Station to Kawaguchiko Station.||1. Part of the ride is covered by JR Pass. You can pay difference in cash to Ticket Checker on train. <br> 2. Although possible to travel without reservation, would strongly recommend it. You can make reservations at ticket vending machines near JR offices in bigger train stations like Shinjuku|
+|10:00|Take Bus From Kawaguchiko Station to [Shibazakura Festival](https://www.fujimotosuko-resort.jp/)||Seasonal festival.|
+|13:00|Return to Kawaguchiko Station|||
+|14:00|Walk to Mt. Fuji Panoramic Ropeway|||
+|16:00|Return to Kawaguchiko Station|||
+|16:30|Take train [Fuji Excursion](https://www.jreast.co.jp/hachioji/fuji_excursion/en/) from Kawaguchiko Station to Shinjuku Station.|||
 # Documents
 
 |Date|Name|Link|File|
