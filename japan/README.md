@@ -51,6 +51,18 @@
 |16:30|Check-in at Sotetsu Fresa Inn Yodoyabashi|||
 |17:30|Take train to Shinsekai|<img width="448" alt="image" src="https://user-images.githubusercontent.com/35510446/236726342-a8fe287a-586c-4c02-8c5c-0d1c2633d867.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236726420-288d6554-48a3-4378-9d0c-781eee660379.png"><img width="469" alt="image" src="https://user-images.githubusercontent.com/35510446/236726197-4a4dcd37-3288-4006-9903-439696cd52cf.png">|
 |19:00|Take train to Dotonbori|<img width="449" alt="image" src="https://user-images.githubusercontent.com/35510446/236726620-297d9edf-da45-4781-85a1-650429b9ceb6.png">||
+
+# Day 6
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|10:30|Take local train to Shin-Osaka station|
+|12:00|Take Shinkansen to Kyoto station|
+|13:00|Take local train to Karasuma Oike Station|
+|13:30|Leave luggage at hotel|
+|14:00|Hang-out at Nishiki Market|<img width="244" alt="image" src="https://user-images.githubusercontent.com/35510446/236727160-39ab7ce5-4f2b-4ad5-b5b4-fa742967d2d4.png">|<img width="242" alt="image" src="https://user-images.githubusercontent.com/35510446/236727219-8065eed7-199f-4ede-acc0-327d817fae6f.png">|
+|16:00|Check-in at Ryokan Hotel - Matsui Bekkan Hanakanzashi|<img width="432" alt="image" src="https://user-images.githubusercontent.com/35510446/236727328-337ddd5e-42fb-45f4-86eb-a6525724fe06.png">||
+|18:00|Cab to Nineizaka|<img width="234" alt="image" src="https://user-images.githubusercontent.com/35510446/236727515-466f9153-a03b-4c53-b69b-474589959ea0.png">|1. Famous Pagoda Picture|
+|20:00|Dinner at Gyoza ChaoChao|||
 # Documents
 
 |Date|Name|Link|File|
