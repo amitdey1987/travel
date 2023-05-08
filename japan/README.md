@@ -63,6 +63,18 @@
 |16:00|Check-in at Ryokan Hotel - Matsui Bekkan Hanakanzashi|<img width="432" alt="image" src="https://user-images.githubusercontent.com/35510446/236727328-337ddd5e-42fb-45f4-86eb-a6525724fe06.png">||
 |18:00|Cab to Nineizaka|<img width="234" alt="image" src="https://user-images.githubusercontent.com/35510446/236727515-466f9153-a03b-4c53-b69b-474589959ea0.png">|1. Famous Pagoda Picture|
 |20:00|Dinner at Gyoza ChaoChao|||
+
+# Day 7
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|08:00|Traditional Japanese Breakfast at hotel|<img width="188" alt="image" src="https://user-images.githubusercontent.com/35510446/236727816-851a89d5-b691-4d1d-a919-8bdc31d4b007.png">|<img width="450" alt="image" src="https://user-images.githubusercontent.com/35510446/236727867-816aac2d-a98c-465e-9f9f-38f48724fb40.png">|
+|09:00|Train to Fushimi-Inari|<img width="235" alt="image" src="https://user-images.githubusercontent.com/35510446/236728016-55c34b30-be3a-42bf-b52f-f22d0469a0b1.png">|<img width="238" alt="image" src="https://user-images.githubusercontent.com/35510446/236728092-76e865da-3734-46b0-8c4e-c1804fc05561.png">|
+|13:00|Conveyor Belt Sushi at Musashi Sushi|<img width="384" alt="image" src="https://user-images.githubusercontent.com/35510446/236728245-9bde68a2-0435-4255-baf2-142b1ef11dbe.png">||
+|14:30|Teramachi-dori|
+|16:00|Hot bath at Hotel Onsen|
+|18:00|Cab to [Gion Corner](http://www.kyoto-gioncorner.com/global/en.html) for Traditional Japansese Show|<img width="442" alt="image" src="https://user-images.githubusercontent.com/35510446/236728612-ca5f9ad7-3f91-49a4-81b3-7211a28c37b7.png">|1. No photos allowed <br> 2. Make online reservations in advance|
+
+
 # Documents
 
 |Date|Name|Link|File|
