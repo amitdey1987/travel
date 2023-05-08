@@ -41,6 +41,15 @@
 |19:00|Take train to Shibuya Corssing|<img width="556" alt="image" src="https://user-images.githubusercontent.com/35510446/236656094-a7e5d29d-bc3f-4ace-8bd8-9e9b888e18dd.png">||
 |20:30|Take train back to Shinjuku|||
 |21:00|Curry Dinner at Shinjuku Station|<img width="415" alt="image" src="https://user-images.githubusercontent.com/35510446/236656114-d88a2fde-86ff-4399-a4eb-c040f0841778.png">||
+
+# Day 5
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|10:30|Take Train to Tokyo Station|||
+|12:00|Take Shinkansen (Bullet Train) from Tokyo station to Shin-Osaka station|<img width="510" alt="image" src="https://user-images.githubusercontent.com/35510446/236725739-82d31e08-4ddc-40fb-bc88-77391cece13d.png">|1. Tokyo station is large. Keep buffer of 1 hour. <br>2. Purchase bento box lunch at station before boarding||
+|16:00|Take train to Yodoyabashi||Suica card may have to be reset at Ticket counter|
+|16:30|Check-in at Sotetsu Fresa Inn Yodoyabashi|||
+|17:30|Take train to Shinsekai|<img width="448" alt="image" src="https://user-images.githubusercontent.com/35510446/236726342-a8fe287a-586c-4c02-8c5c-0d1c2633d867.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236726420-288d6554-48a3-4378-9d0c-781eee660379.png"><img width="469" alt="image" src="https://user-images.githubusercontent.com/35510446/236726197-4a4dcd37-3288-4006-9903-439696cd52cf.png">|
 # Documents
 
 |Date|Name|Link|File|
