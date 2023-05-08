@@ -70,10 +70,28 @@
 |08:00|Traditional Japanese Breakfast at hotel|<img width="188" alt="image" src="https://user-images.githubusercontent.com/35510446/236727816-851a89d5-b691-4d1d-a919-8bdc31d4b007.png">|<img width="450" alt="image" src="https://user-images.githubusercontent.com/35510446/236727867-816aac2d-a98c-465e-9f9f-38f48724fb40.png">|
 |09:00|Train to Fushimi-Inari|<img width="235" alt="image" src="https://user-images.githubusercontent.com/35510446/236728016-55c34b30-be3a-42bf-b52f-f22d0469a0b1.png">|<img width="238" alt="image" src="https://user-images.githubusercontent.com/35510446/236728092-76e865da-3734-46b0-8c4e-c1804fc05561.png">|
 |13:00|Conveyor Belt Sushi at Musashi Sushi|<img width="384" alt="image" src="https://user-images.githubusercontent.com/35510446/236728245-9bde68a2-0435-4255-baf2-142b1ef11dbe.png">||
-|14:30|Teramachi-dori|
+|14:30|Shopping at Teramachi-dori|
 |16:00|Hot bath at Hotel Onsen|
 |18:00|Cab to [Gion Corner](http://www.kyoto-gioncorner.com/global/en.html) for Traditional Japansese Show|<img width="442" alt="image" src="https://user-images.githubusercontent.com/35510446/236728612-ca5f9ad7-3f91-49a4-81b3-7211a28c37b7.png">|1. No photos allowed <br> 2. Make online reservations in advance|
 
+# Day 8
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|08:30|Take local train to Kyoto Station|
+|10:00|Take Shinkansen to Tokyo Station|
+|13:00|Leave luggage at Mitsui Garden Hotel Kyobashi Tokyo Station|
+|14:00|Lunch, Shopping at Tokyo Station||1. Lot of options for food, gifts, and apparel. |
+|18:00|Pick-up large baggage from Ecbo Cloak|
+|19:00|Dinner, shopping at Tokyo Station|
+|20:00|Check-in at Hotel|
+|21:00|Explore Ginza neighbourhood by walking|<img width="469" alt="image" src="https://user-images.githubusercontent.com/35510446/236729213-a39a8065-33e4-4ce4-9bfb-cc39813323a1.png">|1. Check-out Itoya stationery shop|
+
+# Day 9
+|Time|Description|Photos|Tips|
+|-|-|-|-|
+|11:00|Take Narita Express for Narita International Airport||1. You can use JR Pass <br> 2. You must make reservations <br>3. Lot of space for large luggage|
+|13:00|Return Wi-fi rental|
+|16:00|Return flight|
 
 # Documents
 
