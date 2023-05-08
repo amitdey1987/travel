@@ -50,6 +50,7 @@
 |16:00|Take train to Yodoyabashi||Suica card may have to be reset at Ticket counter|
 |16:30|Check-in at Sotetsu Fresa Inn Yodoyabashi|||
 |17:30|Take train to Shinsekai|<img width="448" alt="image" src="https://user-images.githubusercontent.com/35510446/236726342-a8fe287a-586c-4c02-8c5c-0d1c2633d867.png">|<img width="250" alt="image" src="https://user-images.githubusercontent.com/35510446/236726420-288d6554-48a3-4378-9d0c-781eee660379.png"><img width="469" alt="image" src="https://user-images.githubusercontent.com/35510446/236726197-4a4dcd37-3288-4006-9903-439696cd52cf.png">|
+|19:00|Take train to Dotonbori|<img width="449" alt="image" src="https://user-images.githubusercontent.com/35510446/236726620-297d9edf-da45-4781-85a1-650429b9ceb6.png">||
 # Documents
 
 |Date|Name|Link|File|
