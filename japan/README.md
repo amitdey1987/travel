@@ -3,7 +3,7 @@
 2. If travelling during Peak season, once your get JR Pass, make all reservations for long-distance trips at booths at railway stations.
 3. Lot of places only accept cash. Convert 500$ per person per week to Yen before your trip.
 4. Wear good walking shoes. Expect on an average 15K steps every day.
-5. Install Google Translate on your phone. Also useful to capute Japanese script to English.
+5. Install Google Translate on your phone. Also useful to convert Japanese script to English.
 6. Buy an electrical converter before trip.
 7. Keep buffer for catching trains at large stations (e.g. Tokyo), especially if it is your first time at the station.
 8. Buy wifi rental device, and Suica card once you arrive.
