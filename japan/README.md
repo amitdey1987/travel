@@ -1,3 +1,14 @@
+# Tips
+1. If you are planning a trip outside Tokyo, Buy [Japan Rail Pass](https://japanrailpass.net/) multiple weeks before your trip, and have the "code" delivered to your home. It is cheaper than buying in Japan. You must still exchange the code for a pass once you reach Japan.
+2. If travelling during Peak season, once your get JR Pass, make all reservations for long-distance trips at booths at railway stations.
+3. Lot of places only accept cash. Convert 500$ per person per week to Yen before your trip.
+4. Wear good walking shoes. Expect on an average 15K steps every day.
+5. Install Google Translate on your phone. Also useful to capute Japanese script to English.
+6. Buy an electrical converter before trip.
+7. Keep buffer for catching trains at large stations (e.g. Tokyo), especially if it is your first time at the station.
+8. Buy wifi rental device, and Suica card once you arrive.
+9. If travelling during peak season, and want to store luggage for multiple days, pre-book a location using [ecbo cloak](https://cloak.ecbo.io/en). Train Station lockers can only store things for 3 days (including pickup and drop-off days) 
+
 # Day 1
 
 |Time|Description|Photos|Tips|
