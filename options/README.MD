@@ -13,3 +13,5 @@
 |Employer - Phone|4156128582||
 |Employer - Email|ralir@uber.com||
 |Employer - Job Description|Staff Software Engineer who leads the development of various features of the Uber App used by drivers at Airports worldwide.||
+|Mother - Date of Birth|Jan 11 1952|
+|Father - Date of Birth|Dec 31 1948|
