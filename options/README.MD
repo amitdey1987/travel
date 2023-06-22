@@ -1,7 +1,7 @@
-|Country|Step 1|Step 2|Hotel|
-|-|-|-|-|
+|Country|Step 1|Step 2|Hotel|Notes
+|-|-|-|-|-|
 |UK|https://visas-immigration.service.gov.uk/alt-language-selection-skip-visa||
-|France|||Best Western Empire Elysees, 3 Rue de Montenotte, 75017 Paris, France, +33158054200, contact@bwee.fr|
+|France|||Best Western Empire Elysees, 3 Rue de Montenotte, 75017 Paris, France, +33158054200, contact@bwee.fr|FRA1CI20237008709 - Chicago, FRA1MI20237006237 - Miami, FRA1LS20237011828 - Los Angeles|
 
 |Info|Amit|Anushree|
 |-|-|-|
