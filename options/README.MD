@@ -12,6 +12,6 @@
 |Employer - Address|1515 3RD STREET, SAN FRANCISCO, CA, 94158|1 Microsoft Way, Redmond, WA, 98052|
 |Employer - Phone|4156128582|4258828080|
 |Employer - Email|ralir@uber.com|anpai@microsoft.com|
-|Employer - Job Description|Staff Software Engineer who leads the development of various features of the Uber App used by drivers at Airports worldwide.||
-|Mother - Date of Birth|Jan 11 1952|
-|Father - Date of Birth|Dec 31 1948|
+|Employer - Job Description|Staff Software Engineer who leads the development of various features of the Uber App used by drivers at Airports worldwide.|Responsible for development of Cloud services for Microsoft Dynamics 365 Customer Insights|
+|Mother - Date of Birth|Jan 11 1952|Sep 1 1966|
+|Father - Date of Birth|Dec 31 1948|Jan 7 1957|
