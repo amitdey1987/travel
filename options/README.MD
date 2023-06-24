@@ -2,7 +2,7 @@
 |-|-|-|-|-|
 |UK|https://visas-immigration.service.gov.uk/alt-language-selection-skip-visa||
 |France|||Best Western Empire Elysees, 3 Rue de Montenotte, 75017 Paris, France, +33158054200, contact@bwee.fr|FRA1CI20237008709 - Chicago, FRA1MI20237006237 - Miami, FRA1LS20237011828 - Los Angeles|
-
+|Belgium|||Hotel Ramada Brussels Woluwe by Wyndham, Av. des Pléiades 67, 1200 Brussels, Belgium, +3227753180, gm@ramadabrusselswoluwe.be|
 |Info|Amit|Anushree|
 |-|-|-|
 |Passport - Number|P2979482|Z5401402|
