@@ -15,3 +15,6 @@
 |Employer - Job Description|Staff Software Engineer who leads the development of various features of the Uber App used by drivers at Airports worldwide.|Responsible for development of Cloud services for Microsoft Dynamics 365 Customer Insights|
 |Mother - Date of Birth|Jan 11 1952|Sep 1 1966|
 |Father - Date of Birth|Dec 31 1948|Jan 7 1957|
+|GreenCard - Number|	206-754-588||
+|GreenCard - Issue|10/28/2021|
+|GreenCard - Expiry|10/28/2031|
