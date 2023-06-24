@@ -7,7 +7,7 @@
 |-|-|-|
 |Passport - Number|P2979482|Z5401402|
 |Passport - Issue|Nov 9 2016|Sep 23 2020|
-|Passport - Expiry|Nov 8 2026|Sep 22 2020|
+|Passport - Expiry|Nov 8 2026|Sep 22 2030|
 |Employer - Name|Uber|Microsoft|
 |Employer - Address|1515 3RD STREET, SAN FRANCISCO, CA, 94158|1 Microsoft Way, Redmond, WA, 98052|
 |Employer - Phone|4156128582|4258828080|
@@ -15,6 +15,6 @@
 |Employer - Job Description|Staff Software Engineer who leads the development of various features of the Uber App used by drivers at Airports worldwide.|Responsible for development of Cloud services for Microsoft Dynamics 365 Customer Insights|
 |Mother - Date of Birth|Jan 11 1952|Sep 1 1966|
 |Father - Date of Birth|Dec 31 1948|Jan 7 1957|
-|GreenCard - Number|	206-754-588||
-|GreenCard - Issue|10/28/2021|
-|GreenCard - Expiry|10/28/2031|
+|GreenCard - Number|	206-754-588|201-317-515|
+|GreenCard - Issue|10/28/2021|10/28/2021|
+|GreenCard - Expiry|10/28/2031|10/28/2031|
