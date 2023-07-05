@@ -20,6 +20,7 @@ password : park@year
 |7-28|Nice|Holiday Inn Nice, an IHG Hotel|20 Boulevard Victor Hugo, Nice, Alpes-Maritimes, 6000|[72598317719606](https://www.hotels.com/trips/egti-YDG-PJS-4RK6/details/ZDViZTJiYjQtYTA5MC01MmZiLWEzZTItMmFmNjM3ZGQ1ZDliOzU4M2Q5NDZhLTMwMzYtNDc0Yy05YjAwLWEzOTY5ODU5YzUwYV8w?filter=1)
 
 # Bookings
-|Date|Time|Name|Address|Ticket|QRCode
+|Date|Time|Name|Address|Ticket|QRCode|
+|-|-|-|-|-|-|
 |7-26|14:00|Louvre|75001 Paris, France|[louvre.pdf](https://github.com/amitdey1987/travel/files/11952979/louvre.pdf)|<img width="114" alt="image" src="https://github.com/amitdey1987/travel/assets/35510446/343d0e49-f4e1-4f05-aa21-f2e56e1b4b93"> <img width="106" alt="image" src="https://github.com/amitdey1987/travel/assets/35510446/7ab8375e-fa6f-428e-8d92-bc1a8c15ae34">|
 
