@@ -4,8 +4,8 @@ password : park@year
 
 |Date|Time|From|To|Flight/Train|Reference|Website|Tickets|
 |-|-|-|-|-|-|-|-|
-|7-21|13:30|Seattle|Paris(CDG)|AF355|QOE7KO|www.airfrance.us|[seabru.pdf](https://github.com/amitdey1987/travel/files/11952783/seabru.pdf)|
-|7-22|13:07|Paris(CDG)|Brussels(ZYR)|AF7183|QOE7KO|www.airfrance.us|[seabru.pdf](https://github.com/amitdey1987/travel/files/11952783/seabru.pdf)
+|7-21|13:30|Seattle|Paris(CDG)|AF355|QOE7KO|www.airfrance.us|[seazyr.pdf](https://github.com/amitdey1987/travel/files/11952795/seazyr.pdf)|
+|7-22|13:07|Paris(CDG)|Brussels(ZYR)|AF7183|QOE7KO|www.airfrance.us|[seazyr.pdf](https://github.com/amitdey1987/travel/files/11952796/seazyr.pdf)|
 |7-25|10:13|Brussels Midi/Zuid|Paris Gare du Nord|Thalys 9422|SINIBG|www.sncf-connect.com|
 |7-28|9:26|Paris Gare Lyon|Nice Ville|TGV INOUI 6173|SJTRHP|www.sncf-connect.com|
 |7-31|9:30|Nice|Paris(CDG)|AF7301|QOE7KO|www.airfrance.us|[ncesea.pdf](https://github.com/amitdey1987/travel/files/11952786/ncesea.pdf)|
