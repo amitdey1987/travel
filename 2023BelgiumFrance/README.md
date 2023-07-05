@@ -10,3 +10,11 @@ password : park@year
 |7-28|9:26|Paris Gare Lyon|Nice Ville|TGV INOUI 6173|SJTRHP|www.sncf-connect.com|[parnicamit.pdf](https://github.com/amitdey1987/travel/files/11952813/parnicamit.pdf) [parnicanu.pdf](https://github.com/amitdey1987/travel/files/11952814/parnicanu.pdf) <img width="130" alt="image" src="https://github.com/amitdey1987/travel/assets/35510446/bfa6a0fa-1600-4e81-b80b-b494bc23a048"> <img width="125" alt="image" src="https://github.com/amitdey1987/travel/assets/35510446/63bbdfd0-95c4-458f-b82f-fc3c5a14e527">|
 |7-31|9:30|Nice|Paris(CDG)|AF7301|QOE7KO|www.airfrance.us|[ncesea.pdf](https://github.com/amitdey1987/travel/files/11952786/ncesea.pdf)|
 |7-31|15:40|Paris(CDG)|Seattle|DL081|QOE7KO|www.airfrance.us|[ncesea.pdf](https://github.com/amitdey1987/travel/files/11952786/ncesea.pdf)|
+
+# Hotels
+
+|Date|City|Hotel|Address|
+|-|-|-|-|
+|7-22|Brussels|Warwick Brussels|Rue Duquesnoy 5-7, Brussels, 1000|
+|7-25|Paris|Le Relais Saint Sulpice|3 rue Garancière, Paris, 75006|
+|7-28|Nice|Holiday Inn Nice, an IHG Hotel|20 Boulevard Victor Hugo, Nice, Alpes-Maritimes, 6000|
