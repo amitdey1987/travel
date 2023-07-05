@@ -6,7 +6,7 @@ password : park@year
 |-|-|-|-|-|-|-|-|
 |7-21|13:30|Seattle|Paris(CDG)|AF355|QOE7KO|www.airfrance.us|[seazyr.pdf](https://github.com/amitdey1987/travel/files/11952795/seazyr.pdf)|
 |7-22|13:07|Paris(CDG)|Brussels(ZYR)|AF7183|QOE7KO|www.airfrance.us|[seazyr.pdf](https://github.com/amitdey1987/travel/files/11952796/seazyr.pdf)|
-|7-25|10:13|Brussels Midi/Zuid|Paris Gare du Nord|Thalys 9422|SINIBG|www.sncf-connect.com|
-|7-28|9:26|Paris Gare Lyon|Nice Ville|TGV INOUI 6173|SJTRHP|www.sncf-connect.com|
+|7-25|10:13|Brussels Midi/Zuid|Paris Gare du Nord|Thalys 9422|SINIBG|www.sncf-connect.com|[bruparamit.pdf](https://github.com/amitdey1987/travel/files/11952811/bruparamit.pdf) [bruparanu.pdf](https://github.com/amitdey1987/travel/files/11952812/bruparanu.pdf)|
+|7-28|9:26|Paris Gare Lyon|Nice Ville|TGV INOUI 6173|SJTRHP|www.sncf-connect.com|[parnicamit.pdf](https://github.com/amitdey1987/travel/files/11952813/parnicamit.pdf) [parnicanu.pdf](https://github.com/amitdey1987/travel/files/11952814/parnicanu.pdf)|
 |7-31|9:30|Nice|Paris(CDG)|AF7301|QOE7KO|www.airfrance.us|[ncesea.pdf](https://github.com/amitdey1987/travel/files/11952786/ncesea.pdf)|
 |7-31|15:40|Paris(CDG)|Seattle|DL081|QOE7KO|www.airfrance.us|[ncesea.pdf](https://github.com/amitdey1987/travel/files/11952786/ncesea.pdf)|
