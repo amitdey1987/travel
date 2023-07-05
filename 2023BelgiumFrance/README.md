@@ -13,8 +13,8 @@ password : park@year
 
 # Hotels
 
-|Date|City|Hotel|Address|
-|-|-|-|-|
-|7-22|Brussels|Warwick Brussels|Rue Duquesnoy 5-7, Brussels, 1000|
-|7-25|Paris|Le Relais Saint Sulpice|3 rue Garancière, Paris, 75006|
-|7-28|Nice|Holiday Inn Nice, an IHG Hotel|20 Boulevard Victor Hugo, Nice, Alpes-Maritimes, 6000|
+|Date|City|Hotel|Address|Reservatopm
+|-|-|-|-|-|
+|7-22|Brussels|Warwick Brussels|Rue Duquesnoy 5-7, Brussels, 1000|[72598229214801](https://www.hotels.com/trips/egti-8UD-U0U-JRBQ/details/NzRhZGIzY2QtMGQyZC01YzY3LTliNGEtYjEzODJhYThhOWU5O2VkNzJmZjE1LTFhYWYtNGZhMy05YzU0LTllNzE3ZmZmMmM4NF8w?filter=1)
+|7-25|Paris|Le Relais Saint Sulpice|3 rue Garancière, Paris, 75006|[72598278504818](https://www.hotels.com/trips/egti-8UD-U0U-JRBQ/details/YmI0ZjMwNTktNmZmMS01MTk0LWE1NGUtMzY0MDk3NWM5NjY5OzEzY2MxZGRkLWJhNjQtNGFmYS05NDU0LTM3NTQ1NWIwZjMzNF8w?filter=1)
+|7-28|Nice|Holiday Inn Nice, an IHG Hotel|20 Boulevard Victor Hugo, Nice, Alpes-Maritimes, 6000|[72598317719606](https://www.hotels.com/trips/egti-YDG-PJS-4RK6/details/ZDViZTJiYjQtYTA5MC01MmZiLWEzZTItMmFmNjM3ZGQ1ZDliOzU4M2Q5NDZhLTMwMzYtNDc0Yy05YjAwLWEzOTY5ODU5YzUwYV8w?filter=1)
