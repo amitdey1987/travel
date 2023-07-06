@@ -29,8 +29,8 @@ password : park@year
 ## 22-7 Brussels
 |Time|Thing|
 |-|-|
-|1700|Manneken Pis|
-|1800|Charli Bakery (Closes 7PM)|
-|1900|Grand Place|
-|2000|Bar|
+|17:00|Manneken Pis|
+|18:00|Charli Bakery (Closes 19:00)|
+|19:00|Grand Place|
+|20:00|Bar|
 
