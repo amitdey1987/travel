@@ -41,3 +41,19 @@ password : park@year
 |20:30|Dinner at Royal Indian Taste|
 |21:30|Grand Place|
 
+## 23-7 Bruges
+|Time|Thing|
+|-|-|
+|0730|Breakfast at Warwick|
+|0900|Train from Brussel-Centraal to Brugge|
+|1100|Bruges River Cruises|
+|1200|Basilica of the Holy Blood|
+|1230|Belfry of Bruges|
+|1330|Lunch at The Republic, Vlissinghe, De Windmolen, L'Estaminet|
+|1430|Grote Markt|
+|1500|Church of our Lady|
+|1700|Begijnhof|
+|1730|Sashuis|
+|1800|Minnewaterpark|
+|1930|Train from Brugge to Brussel-Centraal|
+|2100|Dinner at Royal Indian Restaurant|
