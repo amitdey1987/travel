@@ -29,8 +29,15 @@ password : park@year
 ## 22-7 Brussels
 |Time|Thing|
 |-|-|
-|17:00|Manneken Pis|
-|18:00|Charli Bakery (Closes 19:00)|
-|19:00|Grand Place|
-|20:00|Bar|
+|13:00|Drop Luggage at Hotel|
+|13:30|Lunch at Le Pain Quotidien Galerie de la Reine, Lloyd Coffee Eatery - Grand-Place, Panos Bakery|
+|14:30|Grand Place|
+|15:00|Check-In at Hotel|
+|17:00|Royal Palace of Brussels|
+|18:00|Royal Museums of Fine Arts of Belgium(Outside)|
+|18:30|Church of Our Lady of Victories at the Sablon|
+|19:00|Manneken Pis|
+|19:30|Drink at The Green Man Cocktail bar|
+|20:30|Dinner at Royal Indian Taste|
+|21:30|Grand Place|
 
