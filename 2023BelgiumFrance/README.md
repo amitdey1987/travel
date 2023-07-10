@@ -57,3 +57,15 @@ password : park@year
 |1800|Minnewaterpark|
 |1930|Train from Brugge to Brussel-Centraal|
 |2100|Dinner at Royal Indian Restaurant|
+
+## 24-7 Ghent, Brussels
+|Time|Thing|
+|-|-|
+|0900|Train to Ghent|
+|1030|Saint Bavo's Cathedral|
+|1115|Saint Nicholas' Church|
+|1200|Lunch at Saint Michael's Bridge|
+|1300|Gravensteen Castle|
+|1500|Patershol|
+|1530|Boat Tour|
+|1630|Saint Michael's Bridge, Korenlei, Graslei|
